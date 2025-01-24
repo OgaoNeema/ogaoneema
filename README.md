@@ -29,8 +29,8 @@ I am **Neema Ogao**, a computer science student and a tech enthusiast. I am pass
     <h1 style="color:#00FFFF;font-size:2.5em;">🌐 Socials:</h1>
 </div>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/NeemaOgao)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@NeemaOgao) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/neema-ogao/)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@neemaogao12) 
 
 ---
 <div align="center" style="background-color:#1A1B27;padding:20px;border-radius:10px;">
