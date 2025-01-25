@@ -9,7 +9,7 @@
 I am **Neema Ogao**, a computer science student and a tech enthusiast. I am passionate about learning, building, and experimenting with technology. Here are a few quick highlights about me:
 
 - 🌟**Frontend Development Fan:** I love crafting sleek, interactive web applications that engage users.
-- 🛡️**Cybersecurity Learner:** I am currently diving into the fascinating world of cybersecurity.
+- 🛡️**Cybersecurity Learner:** I am currently diving into the world of cybersecurity.
 - 💻**Tech Stack:** I am fluent in multiple technologies(and still exploring more!).
 
 ---
