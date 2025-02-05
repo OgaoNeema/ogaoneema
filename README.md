@@ -40,4 +40,4 @@ I am **Neema Ogao**, a computer science student and a tech enthusiast. I am pass
 
 ---
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1000&color=00FFFF&repeat=false&width=500&height=25&lines=Thank+you+for+visiting!%F0%9F%98%84)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=15&pause=1000&color=00FFFF&repeat=false&width=500&height=25&lines=Thanks+for+visiting!%F0%9F%98%84)](https://git.io/typing-svg)
