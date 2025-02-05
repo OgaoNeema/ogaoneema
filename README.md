@@ -6,9 +6,9 @@
     <h1 style="color:#00FFFF;font-size:2.5em;">👩🏾‍💻About Me:</h1>
 </div>
 
-I am **Neema Ogao**, a computer science student and a tech enthusiast. I am passionate about learning, building, and experimenting with technology. Here are a few quick highlights about me:
+I am **Neema Ogao**, a computer science student and a tech enthusiast. I am passionate about learning, building, and experimenting with technology. Here are a few quick things about me:
 
-- 🌟**Frontend Development Fan:** I love crafting sleek, interactive web applications that engage users.
+- 🌟**Frontend Development Fan:** I love coming up with sleek, creative web applications.
 - 🛡️**Cybersecurity Learner:** I am currently diving into the world of cybersecurity.
 - 💻**Tech Stack:** I am fluent in multiple technologies(and still exploring more!).
 
